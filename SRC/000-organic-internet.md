@@ -24,3 +24,12 @@ Links
 - Use variable names to indicate "fake types" to be used in lookup (`print:int->IO`, `defined a:int 1`)
 - Write the lookup system for finding functions by type signature
 - We will have some system that can generate function signatures from a set of types
+
+```racket
+; automatically pulled from registry
+(define print:int->IO (a) (print a))
+
+(define a 1)
+
+(print:int->IO a)
+```
