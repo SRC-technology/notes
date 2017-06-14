@@ -5,13 +5,10 @@ Links
 - IPFS whitepaper: https://raw.githubusercontent.com/ipfs/papers/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf
 - Reference implementation of Bitswap in JS: https://github.com/ipfs/js-ipfs-bitswap
 - TCP RFC: https://tools.ietf.org/html/rfc793
-
-- https://raw.githubusercontent.com/ipfs/papers/master/ipfs-cap2pfs/ipfs-p2p-file-system.pdf
-- https://github.com/ipfs/js-ipfs-bitswap
+- DNS RFC: https://www.ietf.org/rfc/rfc1034.txt ^ https://www.ietf.org/rfc/rfc1035.txt
+- JSON Linked Data: https://json-ld.org/
 
 ## Idris registry ideas
-
-https://json-ld.org/
 
 - JSON linked data (schema for an Idris AST in JSON linked data)
 - Type signature is the resource identifier
