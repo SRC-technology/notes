@@ -20,3 +20,7 @@ Links
 - Interpreter for the JSON linked data resources might compile to Idris source code or directly to binary/JavaScript/whatever. May generate intermediate representation in memory and feed it to Idris instead of going through source code.
 
 ### First step: same shit, but for LISP
+
+- Use variable names to indicate "fake types" to be used in lookup (`print:int->IO`, `defined a:int 1`)
+- Write the lookup system for finding functions by type signature
+- We will have some system that can generate function signatures from a set of types
