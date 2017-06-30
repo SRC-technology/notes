@@ -29,3 +29,5 @@ Symbol = (Alphabet, Vect n Alphanumeric)
 
 symbol : (symbolCandidate : String) -> {range = getRange (unpack symbolCandidate)}
 ```
+
+https://hackage.haskell.org/package/transformers-0.5.4.0/docs/Control-Monad-Trans-State-Strict.html
