@@ -1,0 +1,6 @@
+- https://tryidris.herokuapp.com/compile
+- https://github.com/puffnfresh/tryidris/blob/master/static/scripts/haskell.js
+- http://codemirror.net/doc/manual.html#modeapi
+- https://github.com/codemirror/CodeMirror/blob/3d89b71b955b72e61430f7f38e2350489cad9e15/mode/haskell/haskell.js
+- http://jedwatson.github.io/react-codemirror/
+- https://github.com/JedWatson/react-codemirror
